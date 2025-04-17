@@ -75,8 +75,8 @@
 ## **📊 My Github Stats**
 
   <br/>
-    <a href="https://github.com/PradeepKrGupta/github-readme-stats"><img alt="PradeepKrGupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PradeepKrGupta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PradeepKrGupta/github-readme-stats"><img alt="PradeepKrGupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepKrGupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pkgofficial/github-readme-stats"><img alt="PradeepKrGupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pkgofficial&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pkgofficial/github-readme-stats"><img alt="PradeepKrGupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepKrGupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -99,7 +99,7 @@
 <br>
 
 ## **❤ Views and Followers**
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PradeepKrGupta">
+<a href="https://github.com/pkgofficial/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pkgofficial">
 </a>
-<a href="https://github.com/PradeepKrGupta?tab=followers"><img src="https://img.shields.io/github/followers/PradeepKrGupta?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/pkgofficial?tab=followers"><img src="https://img.shields.io/github/followers/pkgofficial?label=Followers&style=social" alt="GitHub Badge"></a>
