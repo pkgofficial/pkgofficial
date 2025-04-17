@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
-<h2 align="center">I'm a Student, Full-Stack Developer and, Data Science Enthusiast</h2>
+<h2 align="center">I'm a Full-Stack Developer and, Data Science Enthusiast</h2>
 <br>
 
 ## 🙋‍♂️ **About Me**
