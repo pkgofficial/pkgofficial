@@ -16,7 +16,7 @@
 
 - 😎 I’m a **Data Science Enthusiast**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m working in **Simnovus India Pvt Ltd (R&D Center)**
 
 - 📫 How to reach me: **pradeeprauniyarofficial@gmail.com**
 
